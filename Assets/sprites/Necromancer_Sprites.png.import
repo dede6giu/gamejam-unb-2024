@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
+uid="uid://dr6rnicv70twy"
+=======
 uid="uid://bdwx1q75xeyue"
+>>>>>>> 2597bb9a33d64c60c0c1dee28731f12553351ca2
 path="res://.godot/imported/Necromancer_Sprites.png-868d88bda0f74363edfc8db93b8b45e2.ctex"
 metadata={
 "vram_texture": false

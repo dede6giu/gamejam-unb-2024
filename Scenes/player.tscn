@@ -1,7 +1,11 @@
 [gd_scene load_steps=31 format=3 uid="uid://mfcgv2lxhelj"]
 
 [ext_resource type="Script" path="res://Scripts/player.gd" id="1_fh8p8"]
-[ext_resource type="Texture2D" uid="uid://bdwx1q75xeyue" path="res://Assets/sprites/Necromancer_Sprites.png" id="2_lr5bj"]
+<<<<<<< HEAD
+[ext_resource type="Texture2D" uid="uid://bdwx1q75xeyue" path="res://Assets/Necromancer_Sprites.png" id="2_lr5bj"]
+=======
+[ext_resource type="Texture2D" uid="uid://dr6rnicv70twy" path="res://Assets/sprites/Necromancer_Sprites.png" id="2_lr5bj"]
+>>>>>>> 2597bb9a33d64c60c0c1dee28731f12553351ca2
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_f2w1b"]
 atlas = ExtResource("2_lr5bj")
@@ -256,7 +260,9 @@ position = Vector2(0, 2)
 shape = SubResource("RectangleShape2D_8s27j")
 
 [node name="FreeFallTimer" type="Timer" parent="."]
+<<<<<<< HEAD
 wait_time = 0.36
+>>>>>>> 2597bb9a33d64c60c0c1dee28731f12553351ca2
 one_shot = true
 
 [node name="Camera2D" type="Camera2D" parent="."]

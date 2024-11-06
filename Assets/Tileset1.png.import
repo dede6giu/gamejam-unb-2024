@@ -2,20 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-<<<<<<< HEAD
-uid="uid://c1bq04j1efswi"
-=======
-uid="uid://cm32bytp7ywab"
->>>>>>> 2597bb9a33d64c60c0c1dee28731f12553351ca2
-path="res://.godot/imported/Box.png-49f58fe5fded244cd3a376bf461b057f.ctex"
+uid="uid://cpqlqgfo3u2h0"
+path="res://.godot/imported/Tileset1.png-6d732296a2a61cff61e02e4427d68432.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/Box.png"
-dest_files=["res://.godot/imported/Box.png-49f58fe5fded244cd3a376bf461b057f.ctex"]
+source_file="res://Assets/Tileset1.png"
+dest_files=["res://.godot/imported/Tileset1.png-6d732296a2a61cff61e02e4427d68432.ctex"]
 
 [params]
 

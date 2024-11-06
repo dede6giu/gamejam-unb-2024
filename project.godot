@@ -11,7 +11,11 @@ config_version=5
 [application]
 
 config/name="GameJam"
+<<<<<<< HEAD
+run/main_scene="res://Scenes/testeDeath.tscn"
+=======
 run/main_scene="res://Scenes/master_scene.tscn"
+>>>>>>> 2597bb9a33d64c60c0c1dee28731f12553351ca2
 config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://Assets/icon.svg"
 
@@ -59,3 +63,8 @@ interact_hold={
 [rendering]
 
 textures/canvas_textures/default_texture_filter=0
+<<<<<<< HEAD
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+=======
+>>>>>>> 2597bb9a33d64c60c0c1dee28731f12553351ca2
