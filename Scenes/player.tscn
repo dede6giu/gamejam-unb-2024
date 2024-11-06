@@ -1,7 +1,7 @@
 [gd_scene load_steps=31 format=3 uid="uid://mfcgv2lxhelj"]
 
 [ext_resource type="Script" path="res://Scripts/player.gd" id="1_fh8p8"]
-[ext_resource type="Texture2D" uid="uid://bdwx1q75xeyue" path="res://Assets/sprites/Necromancer_Sprites.png" id="2_lr5bj"]
+[ext_resource type="Texture2D" uid="uid://dr6rnicv70twy" path="res://Assets/sprites/Necromancer_Sprites.png" id="2_lr5bj"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_f2w1b"]
 atlas = ExtResource("2_lr5bj")
